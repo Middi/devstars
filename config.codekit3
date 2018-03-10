@@ -9,6 +9,16 @@
 	],
 "creatorBuild": "26261",
 "files": {
+	"\/css\/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/style-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/css\/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -19,6 +29,57 @@
 		"oF": 0,
 		"oS": 3
 		},
+	"\/img\/1.jpg": {
+		"ft": 16384,
+		"iS": 63983,
+		"oA": 0,
+		"oAP": "\/img\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/2.jpg": {
+		"ft": 16384,
+		"iS": 69343,
+		"oA": 0,
+		"oAP": "\/img\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/3.jpg": {
+		"ft": 16384,
+		"iS": 92830,
+		"oA": 0,
+		"oAP": "\/img\/3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/about.jpg": {
+		"ft": 16384,
+		"iS": 146783,
+		"oA": 0,
+		"oAP": "\/img\/about.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/beaker.png": {
+		"ft": 32768,
+		"iS": 955,
+		"oA": 0,
+		"oAP": "\/img\/beaker.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"\/img\/hero.jpg": {
 		"ft": 16384,
 		"iS": 275904,
@@ -27,6 +88,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/img\/logo.png": {
+		"ft": 32768,
+		"iS": 21401,
+		"oA": 0,
+		"oAP": "\/img\/logo.png",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
 		"q": 100
 		},
 	"\/index.html": {
