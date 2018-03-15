@@ -1,35 +1,23 @@
-.logo {
-    width: 40%;
-}
+.logo {width: 40%}
 
-.nav-item {
-    padding: 10px;
-}
+.nav-item {padding: 10px}
 
-.jumbotron {
-    background-color: white;
-}
+.jumbotron {background-color: white}
 
-.section-container {
-    padding: 100px 15px;
-}
+.section-container {padding: 100px 15px}
 
 #about, #form {
     background-color: #f9f9f9;
     border: 1px solid #ccc;
 }
 
-textarea {
-    height: 200px;
-}
-
+textarea {height: 200px}
 
 footer {
     background-color: #333;
     padding: 15px;
     color: white;
 }
-
 
 @media only screen and (max-width: 990px) {
     .media-center {
