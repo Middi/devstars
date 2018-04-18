@@ -7,7 +7,7 @@
 		"uuidString": "4D2C6224-695D-4CE3-B91E-16A07F7A4BA4"
 		}
 	],
-"creatorBuild": "26261",
+"creatorBuild": "26680",
 "files": {
 	"\/css\/style-min.css": {
 		"aP": 1,
@@ -32,6 +32,7 @@
 	"\/img\/1.jpg": {
 		"ft": 16384,
 		"iS": 63983,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/1.jpg",
 		"oF": 0,
@@ -42,6 +43,7 @@
 	"\/img\/2.jpg": {
 		"ft": 16384,
 		"iS": 69343,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/2.jpg",
 		"oF": 0,
@@ -52,11 +54,67 @@
 	"\/img\/3.jpg": {
 		"ft": 16384,
 		"iS": 92830,
+		"jF": 0,
 		"oA": 0,
 		"oAP": "\/img\/3.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/img\/about.jpeg": {
+		"ft": 16384,
+		"iS": 40322,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/about.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/img\/about.jpg": {
+		"ft": 16384,
+		"iS": 15350,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/img\/about.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/img\/bitlogo.png": {
+		"ft": 32768,
+		"iS": 29478,
+		"oA": 0,
+		"oAP": "\/img\/bitlogo.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/hero-2.png": {
+		"ft": 32768,
+		"iS": 70062,
+		"oA": 0,
+		"oAP": "\/img\/hero-2.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/img\/hero-ground.png": {
+		"ft": 32768,
+		"iS": 62922,
+		"oA": 0,
+		"oAP": "\/img\/hero-ground.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"\/img\/hero.png": {
@@ -130,7 +188,8 @@
 	"creationDate": 542383976,
 	"displayValue": "devstars",
 	"displayValueWasSetByUser": 0,
-	"iconImageName": "meme-wonka"
+	"iconImageName": "meme-wonka",
+	"iconImageWasSetByUser": 0
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
@@ -138,6 +197,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -1932,6 +1992,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
+		"outputFormat": 0,
 		"quality": 100
 		},
 	"languageDefaultsJS": {
